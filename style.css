@@ -1,0 +1,65 @@
+body{
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align:center;
+  background-color: #A9D7D1;
+  font-family: Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
+main{
+  background-color: white;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+h1{
+  text-align: center;
+}
+
+#description{
+  text-align: center;
+  margin-top: -20px;
+  font-size: 18px;
+}
+
+#survey-form{
+  padding: 200px;
+  margin-top: -180px;
+  display: inline-block; 
+  margin-bottom: -200px;
+}
+
+ul{
+  list-style: none;
+  text-align: left;
+}
+
+li{
+  margin: 10px 0;
+}
+
+
+#comments{
+  margin-top: 5px;
+}
+
+#submit {
+  background-color: #59ace0;
+  border-radius: 4px;
+  color: white;
+  font-size: 1em;
+  height: 40px;
+  width: 96px;
+  margin: 10px;
+  border: 0px solid;
+}
+
+
+
+
+
+
+
+
+
+
